@@ -37,6 +37,18 @@ SIMM; Transfers 32 bits at a time.
 
 # ALU and the Control Unit 
  The interaction of the control unit and ALU in the CPU:
+ The control unit tells the ALU what operation to perform on that data and the ALU stores the result in an output register.
+
+# IEEE - Ethically Aligned Design.
+  The purpose of IEEE and the importance of ethics in device design.
+  
+  On 1 January 1963, the AIEE and the IRE merged to form the Institute of Electrical and Electronics Engineers, or IEEE. At its formation, IEEE had 150,000 members, 140,000 of whom resided in the United States. Over the decades that followed, the social roles of the technologies under IEEE’s aegis continued to spread across the world and reach into more and more areas of people's lives.
+  
+IEEE, an association dedicated to advancing innovation and technological excellence for the benefit of humanity, is the world's largest technical professional society. It is designed to serve professionals involved in all aspects of the electrical, electronic, and computing fields and related areas of science and technology that underlie modern civilization.
+
+IEEE's roots go back to 1884 when electricity began to become a major influence in society. There was one major established electrical industry, the telegraph, which since the 1840s had come to connect the world with a data communications system faster than the speed of transportation. The telephone and electric power and light industries had just gotten underway.
+  
+  
  
 
 
