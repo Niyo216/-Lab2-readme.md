@@ -35,6 +35,11 @@ The term 64 or 32 bit data path refers to the number of bits of data that are tr
 DIMM; Transfers 64 bits at a time.
 SIMM; Transfers 32 bits at a time.
 
+# ALU and the Control Unit 
+ The interaction of the control unit and ALU in the CPU:
+ 
+
+
 
 
 
