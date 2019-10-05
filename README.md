@@ -36,7 +36,7 @@ DIMM; Transfers 64 bits at a time.
 SIMM; Transfers 32 bits at a time.
 
 # ALU and the Control Unit 
- The interaction of the control unit and ALU in the CPU:
+ # The interaction of the control unit and ALU in the CPU:
  The control unit tells the ALU what operation to perform on that data and the ALU stores the result in an output register.
 
 # IEEE - Ethically Aligned Design.
@@ -49,6 +49,39 @@ IEEE, an association dedicated to advancing innovation and technological excelle
 IEEE's roots go back to 1884 when electricity began to become a major influence in society. There was one major established electrical industry, the telegraph, which since the 1840s had come to connect the world with a data communications system faster than the speed of transportation. The telephone and electric power and light industries had just gotten underway.
   
   
+ # Data Representation: Numeric Conversions 
+ 
+ The difference between decimal, binary and hexadecimal numbers 
+ The numbers in a hex, binary are the same as decimal numbers: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9. The difference between a hex and a decimal is that a hex also contains letters.
+ 
+ 
+ # Data Representation: Hexadecimal Color Representation 
+ 
+  The representation: #ff016b
+  In a RGB color space, hex #ff016b is composed of 100% red.
+  
+  # Information Systems for Business and Beyond: Chapter 3 
+   # Software: 
+   # The roles of application, utility and operating system softwarea and example of each.
+   
+Application software is, essentially, software that allows the user to accomplish some goal or purpose. For example, if you have to write a paper, you might use the application-software program Microsoft Word. If you want to listen to music, you might use iTunes. To surf the web, you might use Internet Explorer or Firefox. Even a computer game could be considered application software.
+   
+ # define the term software; 
+Software is the set of instructions that tell the hardware what to do.
+
+# describe the two primary categories of software; 
+Software can be broadly divided into two categories: operating systems and application software. Operating systems manage the hardware and create the interface between the hardware and the user. Application software is the category of programs that do something useful for the user.
+
+# describe the role ERP software plays in an organization;
+
+# describe cloud computing and its advantages and disadvantages for use in an organization; 
+
+# define the term open-source and identify its primary characteristics.
+
+   
+   
+
+
  
 
 
