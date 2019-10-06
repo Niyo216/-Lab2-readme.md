@@ -61,22 +61,41 @@ IEEE's roots go back to 1884 when electricity began to become a major influence 
   In a RGB color space, hex #ff016b is composed of 100% red.
   
   # Information Systems for Business and Beyond: Chapter 3 
-   # Software: 
+   # Software:
+   
    # The roles of application, utility and operating system softwarea and example of each.
+   Two subcategories of application software worth mentioning are utility software and programming software. Utility software includes software that allows you to fix or modify your computer in some way. Examples include antivirus software and disk defragmentation software. These types of software packages were invented to fill shortcomings in operating systems. Many times, a subsequent release of an operating system will include these utility functions as part of the operating system itself.
+Programming software is software whose purpose is to make more software. Most of these programs provide programmers with an environment in which they can write the code, test it, and convert it into the format that can then be run on a computer. 
+
+# The purpose of ERP software and provide an example.
+
    
-Application software is, essentially, software that allows the user to accomplish some goal or purpose. For example, if you have to write a paper, you might use the application-software program Microsoft Word. If you want to listen to music, you might use iTunes. To surf the web, you might use Internet Explorer or Firefox. Even a computer game could be considered application software.
-   
- # define the term software; 
+ # The term software; 
 Software is the set of instructions that tell the hardware what to do.
 
-# describe the two primary categories of software; 
+# Two primary categories of software; 
 Software can be broadly divided into two categories: operating systems and application software. Operating systems manage the hardware and create the interface between the hardware and the user. Application software is the category of programs that do something useful for the user.
 
-# describe the role ERP software plays in an organization;
+# The role ERP software plays in an organization;
+The enterprise resource planning (ERP) system (sometimes just called enterprise software) was developed to bring together an entire organization in one software application. Simply put, an ERP system is a software application utilizing a central database that is implemented throughout the entire organization.
 
-# describe cloud computing and its advantages and disadvantages for use in an organization; 
 
-# define the term open-source and identify its primary characteristics.
+# Cloud computing and its advantages and disadvantages for use in an organization
+# Advantages of Cloud Computing:
+No software to install or upgrades to maintain.
+Available from any computer that has access to the Internet.
+Can scale to a large number of users easily.
+New applications can be up and running very quickly.
+Services can be leased for a limited time on an as-needed basis.
+Your information is not lost if your hard disk crashes or your laptop is stolen.
+You are not limited by the available memory or disk space on your computer
+
+# Disadvantages of Cloud Computing:
+Your information is stored on someone else’s computer – how safe is it?
+You must have Internet access to use it. If you do not have access, you’re out of luck.
+You are relying on a third-party to provide these services.
+
+# The term open-source and identify its primary characteristics.
 
    
    
