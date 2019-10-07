@@ -122,6 +122,18 @@ The open-source movement has led to the development of some of the most-used sof
  
 
 
+  # Virtualization 
+
+# What types of problems are solved with virtualization? 
+Data virtualization.
+Desktop virtualization.
+Server virtualization.
+Operating system virtualization.
+Network functions virtualization
+ 
+
+# What role does hypervisor play in virtualization? 
+ hypervisors separate the physical resources from the virtual environments—the things that need those resources. Hypervisors can sit on top of an operating system (like on a laptop) or be installed directly onto hardware (like a server), which is how most enterprises virtualize. Hypervisors take your physical resources and divide them up so that virtual environments can use them.
  
 
 
