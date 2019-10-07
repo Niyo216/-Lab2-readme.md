@@ -139,6 +139,21 @@ Network functions virtualization
 
 
 
+# Introduction to Python 
+
+# What is meant by the "pseudo-code nature of Python?" (Google "pseudo-code" to gain better insight) 
+ This pseudo-code nature of Python is one of its greatest strengths. It allows you to concentrate on the solution to the problem rather than the language itself.
+
+# What is an interpreted language vs. a compiled language?
+
+A compiled language is one where the program, once compiled, is expressed in the instructions of the target machine.
+
+An interpreted language is one where the instructions are not directly executed by the target machine, but instead read and executed by some other program (which normally is written in the language of the native machine.
+ 
+ 
+ 
+
+
 
 
 
