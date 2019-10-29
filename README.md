@@ -10,11 +10,11 @@ The performance of a hard disk is very important to the overall speed of the sys
 
 # The difference between latency and transfer rates in the performance of a hard drive.
 
-Latency is the average time for the sector being accessed to rotate into position under a head, after a completed seek. It is easily calculated from the spindle speed, being the time for half a rotation. A drive’s average access time is the interval between the time a request for data is made by the system and the time the data is available from the drive.
+Latency is the average time for the sector being accessed to rotate into position under a head, after a completed seek.
 
-The disk transfer rate (sometimes called media rate) is the speed at which data is transferred to and from the disk media (actual disk platter) and is a function of the recording frequency. It is generally described in megabytes per second (MBps). Modern hard disks have an increasing range of disk transfer rates from the inner diameter to the outer diameter of the disk. This is called a zoned recording technique. The key media recording parameters relating to density per platter are Tracks Per Inch (TPI) and Bits Per Inch (BPI). A track is a circular ring around the disk. TPI is the number of these tracks that can fit in a given area (inch). BPI defines how many bits can be written onto one inch of a track on a disk surface.
+The disk transfer rate is the speed at which data is transferred to and from the disk media and is a function of the recording frequency.
 
-The host transfer rate is the speed at which the host computer can transfer data across the IDE/EIDE or SCSI interface to the CPU. It is more generally referred to as the data transfer rate, or DTR, and can be the source of some confusion. Some vendors list the internal transfer rate, the rate at which the disk moves data from the head to its internal buffers. Others cite the burst data transfer rate, the maximum transfer rate the disk can attain under ideal circumstances and for a short duration. More important for the real world is the external data transfer rate, or how fast the hard disk actually transfers data to a PC’s main memory.
+The host transfer rate is the speed at which the host computer can transfer data across the IDE/EIDE or SCSI interface to the CPU.
 
 # How hard drive is different from a traditional hard drive. 
 
